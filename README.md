@@ -1,208 +1,30 @@
-## 職務経歴書
+**自己PR**
 
-### Profile
-* My-readme: https://github.com/KoganezawaRyouta/managers-readme
-* Medium: https://medium.com/@ryoutakogaenzawa
-* Twitter: https://twitter.com/kogane5513
+これまでBtoC・BtoB双方のプロダクト開発に携わり、戦略立案から実行、グロースまで一貫して取り組んでまいりました。特にメルカリグループでは暗号資産取引所「メルコイン」の新規立ち上げに参画し、口座開設100万口座の達成に貢献、社内MVPをいただくことができました。こうした経験を通じて、大規模サービスにおけるグロース戦略の立案や推進について学ぶことができました。
 
----
+直近では、不動産クラウドファンディングSaaSおよび投資家向け比較サービスを展開する企業にてCPO（Chief Product Officer）を務めています。事業戦略に直結するプロダクト開発をリードし、組織設計からマーケティング戦略までを横断的に推進することで、プロダクトの拡大と収益基盤の強化に貢献しています。
 
-## ProductManagement Skills
-* プロダクト開発戦略の選定
-* UXリサーチ、仮説検証、課題を抽出
-* カスタマージャーニーマップ
-* Value Stream Mapping
-* KPI運用
-* PRD作成
+これらの実績から、私は「新規立ち上げからグロースフェーズまでを責任を持って牽引し、成果を出すこと」を強みとしており、今後もプロダクトを通じて企業と顧客双方に持続的な価値を提供していきたいと考えています
 
-## ProjectManagement Skills
-* スプリントプランニング
-* デイリースクラム
-* スプリントレビュー
-* 開発業務における振り返り（KPT）
-* 障害対応における振り返り（ポストモーテム)
+**職務経歴書（社員）**
 
-## PeopleManagement Skills
-* 1on1
-* 評価
-* 目標管理
+| 期間               | 職種                                                                | 雇用形態 | 業務内容                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ---------------- | ----------------------------------------------------------------- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022年2月～2023年10月 | ・ProductManager<br>・ProjectManager                                | 社員   | **株式会社 メルコイン**<br>**▼ 職種**<br>・ProductManager<br>・ProjectManager<br>**▼ 担当プロジェクト**<br>・メルコイン新規立ち上げ<br>・メルコイン口座開設に係るグロースチーム KPI達成（100万口座） 上半期 MVP取得<br>・国内トラベルルール対応<br>・NFT Walletプロダクト開発<br>**▼ 作業内容**<br>メルカリのアプリ上に、暗号資産取引所を新規で立ち上げるプロジェクトのプロダクトマネージャーを担当。また、立ち上げ後はグロース戦略チームのプロダクトマネージャーとして参画し、口座開設100万口座の達成に貢献、社内MVPを受賞。こうした経験を通じて、大規模サービスにおけるグロース戦略の立案や推進について学ぶ。<br>**▼ Product Management業務**<br>・プロダクト開発戦略の選定<br>・UXリサーチ、仮説検証、課題を抽出<br>・カスタマージャーニーマップ<br>・PRD作成<br>**▼ Project Manager業務**<br>・開発スケジュール策定<br>・デイリー進捗・課題共有MTG<br>・週次進捗・課題共有MTG<br>・開発業務における振り返り<br>・障害対応における振り返り      |
+| 2021年4月～2022年2月  | ・ProductManager<br>・ProjectManager<br>・EngineeringManager         | 社員   | **株式会社 bitFlyer**<br>**▼ 担当プロジェクト**<br>・国外、国内トラベルルール対応<br>・新規通貨上場<br><br>**▼ 作業内容**<br>主に国内取引所の新規通貨上場プロジェクトを担当。また、海外取引所（EU/US）を含めたトラベルルール対応を他社の海外取引所メンバーと連携して実施。<br>**▼ 職種**<br>・ProductManager<br>・ProjectManager                                                                                                                                                                                                                                                                                                                                                                        |
+| 2019年12月～2021年3月 | 金融部長<br>・ProductManager<br>・ProjectManager<br>・EngineeringManager | 社員   | **株式会社 Ginco**<br>**▼ 担当プロジェクト**<br>・暗号資産取引所向けのSaaSプロダクト<br>**▼ 作業内容**<br>金融部部長として、プロダクト／プロジェクトのマネジメントやエンジニアのピープルマネジメントを担当。<br>**▼ 職種**<br>・ProductManager<br>・ProjectManager<br>・EngineeringManager<br>**▼ ProductManager業務**<br>・プロダクト開発戦略・戦術の選定<br>・CSやSalesと協働し、各種インサイトの管理<br>・UXリサーチ、仮説検証<br>・カスタマージャーニーマップ<br>・バリュープロポジションキャンバス<br>・KPI運用<br>**▼ ProjectManager業務**<br>・開発スケジュール策定<br>・デイリー進捗・課題共有MTG<br>・週次進捗・課題共有MTG<br>・開発業務における振り返り<br>・障害対応における振り返り<br>**▼ EngineeringManager**<br>・1on1<br>・目標管理（OKR）<br>・エンジニア評価                                                             |
+| 2019年6月～2019年12月 | ・LeadEngineer                                                     | 社員   | **株式会社 Datachain**<br>**▼ 担当プロジェクト**<br>・ブロックチェーンによる情報銀行システム開発<br>**▼ 作業内容**<br>リードエンジニアとして、ブロックチェーンの研究開発及び各社企業とのPoC案件の開発。<br>**▼ 職種**<br>・LeadEngineer<br>**▼ 担当範囲（職務: リードエンジニア）**<br>・各ブロックチェーン上で動作するWebアプリケーションの開発<br>・各ブロックチェーン上で動作するiOSアプリケーション（Wallet）の開発<br>・L1: RootChain（ETH）<br>・L2: ChildChain（UTXO base on Plasma）<br>・L3: ChildChain（Account base on Tendermint）<br>**▼ 技術要素**<br>・Golang<br>・GraphQL<br>・Aws<br>・Ethereum（Node client: Geth）<br>・Plasma MoreVP Spec<br>・Tendermint Spec                                                                                     |
+| 2018年10月～2019年6月 | ・LeadEngineer                                                     | 社員   | **株式会社 マネーフォワード**<br>**▼ 担当プロジェクト**<br>・暗号資産取引所<br>**▼ 作業内容**<br>株式会社マネーフォワードの100％子会社であるマネーフォワードフィナンシャル株式会社にて、暗号資産取引所の立ち上げ。<br>**▼ 職種**<br>・LeadEngineer<br>**▼ 担当範囲（職務: Wallet開発チームリーダー）**<br>・ホット・コールドウォレット開発業務<br>・HDWalletによる各種鍵の生成、管理（btc, bch, eth）<br>・MultiSigアドレスの生成と署名（btc, bch）<br>・Shamirによる鍵の分散と署名（eth）<br>**▼ 技術要素**<br>・Golang<br>・Bitcoin（Node client: bitcoin core）<br>・Bitcoin cash（Node client: bitcoin abc）<br>・Ethereum（Node client: parity ethereum）                                                                                                                |
+| 2017年7月～2018年10月 | ・ProductManager<br>・LeadEngineer                                  | 社員   | **株式会社 SmartDrive**<br>**▼ 担当プロジェクト**<br>・SmartDrive Cars の新規事業開発<br>**▼ 職種**<br>・ProductManager<br>・ProjectManager<br>・Engineer<br>**▼ ProductManager業務**<br>・プロダクト開発戦略・戦術の選定<br>・CSやSalesと協働し、各種インサイトの管理<br>・カスタマージャーニーマップ<br>**▼ ProjectManager業務**<br>・開発スケジュール策定<br>・デイリー進捗・課題共有MTG<br>・週次進捗・課題共有MTG<br>・開発業務における振り返り<br>・1on1<br>**▼ Engineer業務**<br>・SmartDrive Cars のバックエンド開発全般<br>**▼ 技術要素**<br>・Ruby on Rails（App server）<br>・Golang（Api server）<br>・Vue.js<br>・GraphQL<br>・Heroku<br>・Aws                                                                                      |
+| 2016年3月～2017年7月  | ・LeadEngineer                                                     | 社員   | **feee 株式会社**<br>**▼ 担当プロジェクト**<br>・決済基盤、共通認証基盤チーム<br>**▼ 職種**<br>・LeadEngineer<br>**▼ 担当範囲**<br>・会計freee、給与freee、会社設立freee、開業freeeの共通認証基盤の運用・開発<br>・パスワード強度計算、リスクベース認証等の設計と導入<br>・認証基盤アプリケーションのパフォーマンス改善<br>・Android開発（パスワード強度計算や認証周りの機能開発）<br>**▼ 技術要素**<br>・Ruby on Rails（認証基盤APIサーバー）<br>・React（front）<br>・RxJava（Android）<br>・Golang（認証基盤APIサーバーの一部のendpoint）<br>・aws（ec2, s3, cloud front, rds, sqs）                                                                                                                                                                                |
+| 2014年5月～2016年3月  | ・BackendEngineer<br>・FrontendEngineer<br>・InfraEngineer           | 社員   | **株式会社 エニグモ**<br>**▼ 作業内容**<br>■ Buyma（グローバル） ECサイト（[https://www.buyma.us/](https://www.buyma.us/)）の立ち上げから運用まで関わる。<br>・担当範囲<br>　・決済周り（ポイント機能含む）<br>　・為替レートに対応した決済、クレジットカード・不正利用の検知システム導入等<br>　・国内版との売上集計機能の実装（Worker）<br>　・RDSの構築、Batchサーバー（ES2）構築、SQSの構築、Vault（HashiCorp）の構築<br>・技術要素<br>　・Ruby on Rails<br>　・teraform<br>　・aws（ec2, s3, cloud front, rds, sqs）<br>■ Buyma（国内版） ECサイト（[http://www.buyma.com/](http://www.buyma.com/)） Enigmo運営機能開発の運用に関わる。<br>・担当範囲<br>　・決済周り（ポイント機能等）<br>　・物流（商品の発送、返品、検品等の倉庫とのシステム連携の新規開発を担当）<br>　・PHPからRailsへの移行<br>・技術要素<br>　・Ruby on Rails<br>　・PHP |
+| 2010年10月～2014年5月 | ・BackendEngineer<br>・FrontendEngineer                             | 社員   | **フューチャーエクシィード 株式会社**<br>■ SIer、SI業務<br>【リクルートライフスタイル（出向）】<br>・MARQREL（マルクレル） ECサイト（[https://www.marqrel.jp/](https://www.marqrel.jp/)）の立ち上げから運用まで関わる。<br>・担当範囲<br>　・決済周り（クーポン機能、ポイント機能含む）<br>・技術要素<br>　・server side は、Java（R2: seasar2 の wrapper）で実装<br>　・front は、PHP（Zend, smarty）で実装<br>　・aws（ec2, s3, cloud front）<br>・その他<br>　・リクルート社内でアーキテクト部門で受賞<br>　・リクルート社内でサービスのローンチ最短記録4ヶ月を達成<br>【その他のプロジェクト】<br>・保険試算システム開発<br>・都市計画情報登録システム開発                                                                                                                                                |
+| 2006年4月～2010年10月 | ・BackendEngineer<br>・FrontendEngineer                             | 社員   | **グローバルサイエンス 株式会社**<br>■ SIer、SI業務<br>【主なプロジェクト】<br>・台帳・帳簿登録閲覧システム開発<br>・運航会社航空機管理システム開発<br>【技術要素】<br>・Java、Struts2、Tomcat、Apache                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
-## Programming Skills
-### 言語
-* Golang(4年)
-  * fasthttp, gin, grom
-* Ruby(6年)
-  * Ruby on Rails
-* JAVA(６年)
-  * Struts, Spring, seasar2, hibernate
-* PHP(2年)
-  * Zend Framework、Smarty
-
-### Bockchain
-* Bitcoin(Node clien: [bitcoin core](https://github.com/bitcoin/bitcoin) )
-* Bitcoin cash(Node clien: [bitcoin abc](https://github.com/Bitcoin-ABC/bitcoin-abc) )
-* Ethereum (Node clien: [parity ethereum](https://github.com/paritytech/parity-ethereum) )
-
-* ***[副業:Fintech系企業]***
-* 認証基盤の拡張(Oath2.0, OpenIDConnect)
-* 暗号資産取引所のWallet設計・開発サポート
-* SecurityToken　開発系プロジェクト
-
----
-### 経歴
-* ***[メルコイン]()***
-***プロダクトマネージャー***
- * ProductManagement業務
-   * プロダクトマネージャー業務
-   * プロダクト開発戦略の選定
-   * UXリサーチ、仮説検証、課題を抽出
-   * カスタマージャーニーマップ
-   * PRD作成
-   * 統合検証シナリオの作成
- * プロジェクトマネージャー業務
-   * 開発スケジュール策定
-   * デイリー進捗・課題共有MTG
-   * 週次進捗・課題共有MTG
-   * 開発業務における振り返り（KPT）
-   * 障害対応における振り返り（ポストモーテム）
-
----
-* ***[(株)BitFlyer](https://bitflyer.com/)***
-***プロジェクトマネージャー***
- * ProductManagementのサポート
- * ProjectManagement
- * ウォレット開発チームとのScrum
-
----
-* ***[(株)Ginco](https://ginco.co.jp/)***
-***金融部部長***
-  * プロダクトマネージャー業務
-    * プロダクト開発戦略の選定
-    * UXリサーチ、仮説検証、課題を抽出
-    * カスタマージャーニーマップ
-    * Value Stream Mapping
-    * KPI運用
-    * PRD作成
-    * 統合検証シナリオの作成
-  * プロジェクトマネージャー業務
-    * 開発スケジュール策定
-    * デイリー進捗・課題共有MTG
-    * 週次進捗・課題共有MTG
-    * 開発業務における振り返り（KPT）
-    * 障害対応における振り返り（ポストモーテム）
-  * エンジニアのピープルマネジメント
-    * 1on1
-    * 目標管理
-
----
-* ***[(株)DataChain](https://datachain.jp/)***
-***LeadEngineer***
-  * 担当範囲
-    * 各ブロックチェーン上で動作するWebアプリケーションの開発
-    * 各ブロックチェーン上で動作するiOSアプリケーション(Wallet)の開発
-      * L1:RootChain（ETH）
-      * L2:Second Layer（UTXO base on Plasma）
-      * L3:Third Layer（Account base on Tendermint）
-  * 技術要素
-    * Golang
-    * GraphQL
-    * Aws
-    * Ethereum (Node clien: [Geth](https://github.com/ethereum/go-ethereum) )
-    * Plasma MoreVP [Spec](https://github.com/omisego/research/blob/master/plasma/plasma-mvp/specifications/morevp.md)
-    * Tendermint [Spec](https://github.com/tendermint/tendermint/tree/master/docs/spec)
-
-* [副業:暗号資産取引所] 取引所立ち上げに向けて、HotWallet/ColdWallet設計に関する技術支援
-
----
-
-* ***株式会社 マネーフォワードフィナンシャル***
-***WalletTeamLead***
-  * 仮想通貨取引所の立ち上げ
-    *　ホット・コールドウォレット開発業務
-      * HDWalletによる各種鍵の生成、管理(btc, bch, eth)
-      * MultiSigアドレスの生成と署名(btc, bch)
-      * Shamirよる鍵の分散と署名(eth)
-  * 技術要素
-    * Golang
-    * Bitcoin(Node clien: [bitcoin core](https://github.com/bitcoin/bitcoin) )
-    * Bitcoin cash(Node clien: [bitcoin abc](https://github.com/Bitcoin-ABC/bitcoin-abc) )
-    * Ethereum (Node clien: [parity ethereum](https://github.com/paritytech/parity-ethereum) )
-
----
-
-* ***株式会社 SmartDrive***
-  * SmartDrive Cars の新規サービス事業開発に関わる。
-  * 担当範囲
-    * プロダクト、プロジェクトマネージメント、バックエンドエンジニア、エンジニア採用
-  * 技術要素
-    * Ruby on Rails(App server)
-    * Golang(Api server)
-    * Vue.js
-    * GraphQL
-    * Heroku
-    * Aws
----
-* ***freee株式会社***
-  * 決済基盤、共通認証基盤チーム
-  * 担当範囲
-    * 会計freee、給与freee、会社設立freee、開業freeeの共通認証基盤の運用、開発
-    * パスワード強度計算、リスクベース認証等の設計と導入
-    * 認証基盤アプリケーションのパフォーマンス改善
-    * Android開発（パスワード強度計算や認証周りの機能開発）
-  * 技術要素
-    * Ruby on Rails(認証基盤APIサーバー)
-    * React(front)
-    * RxJava(Android)
-    * Golang(認証基盤APIサーバーの一部のendpoint)
-    * aws(ec2, s3, cloud front, rds, sqs)
----
-* ***株式会社エニグモ***
-  * Buyma（グローバル） ECサイト(https://www.buyma.us/)  の立ち上げから運用まで関わる。
-  * 担当範囲
-    * 決済周り（ポイント機能含む）
-    * 為替レートに対応した決済、クレジットカード不正利用の検知システム導入等
-    * 国内版との売上集計機能の実装（Worker）
-    * RDSの構築、Batchサーバー（ES2）構築、SQSの構築、Vault(HashiCorp)の構築
-  * 技術要素
-    * Ruby on Rails
-    * teraform
-    * aws(ec2, s3, cloud front, rds, sqs)
-
-* Buyma（国内版） ECサイト(http://www.buyma.com/) Enigmo運営
-  * 機能開発の運用に関わる。
-  * 担当範囲
-    * 決済周り（ポイント機能等）
-    * 物流（商品の発送、返品、検品等の倉庫とのシステム連携の新規開発を担当）
-    * PHPからRailsへの移行
-  * 技術要素
-    * Ruby on Rails
-    * PHP
----
-* ***リクルートライフスタイル（出向）***
-  * MARQREL (マルクレル) ECサイト(https://www.marqrel.jp/) の立ち上げから運用まで関わる。
-  * 担当範囲
-    * 決済周り（クーポン機能、ポイント機能含む）
-  * 技術要素
-    * server sideは、Java(R2:seasar2のwrapper)で実装
-    * frontは、PHP(Zend, smarty)で実装
-    * aws(ec2, s3, cloud front)
-  * その他
-    * リクルート社内でアーキテクト部門で受賞
-    * リクルート社内でサービスのローンチ最短記録4ヶ月を達成 
-
-* その他のプロジェクト
-  * 保険試算システム開発
-  * 都市計画情報登録システム開発
-  * 台帳・帳簿登録閲覧システム開発
-  * 運航会社航空機管理システム開発
----
-## 開発で注力してきたこと
-
-- 可読性、メンテナンス性を重視したコードを書く
-- 最新の情報をキャッチアップして開発に活かす
-- 技術は手段、とにかくユーザーに価値を届ける
-- ビジネス視点から開発やチームをリードする
-- サービスの立ち上げ(0 から 1 を生む)
-- サービスのスケールアップ(1 から 10 に育てる)
-- 大規模データ、トラフィックを扱う
-- パフォーマンス改善
+**職務経歴書（業務委託）**
+| 期間                | 職種                                                        | 雇用形態 | 業務内容                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ----------------- | --------------------------------------------------------- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2021年02月～現在       | ・ProductManager<br>・ProjectManager<br>・BlockchainEngineer | 業務委託 | **株式会社 Virtual Wall**<br>**▼ 職種**<br>・CPO（Chief Product Officer）<br>・BlockChainEngineering<br>**▼ 担当プロダクト**<br>・不動産クラウドファンディングSaaS／投資家向け比較サービス　<br>**▼ 作業内容**<br>不動産クラウドファンディングのSaaSプロダクト（ToB向け）では、O-1フェーズにおける採用計画含め組織設計、要求定義、およびリリース後の中長期ロードマップの選定まで幅広くコミット。<br>また、ToCのプロダクトではグロース期からプロダクトマネージャーとして、組織設計からプロダクト開発戦略の選定まで実施。<br>**▼ Product Management業務**<br>・プロダクト開発戦略の選定<br>・中長期ロードマップの選定<br>・マーケティングチームとのグロース戦略策定<br>・カスタマージャーニーマップにおけるUI/UX設計<br>・プロダクト要求仕様作成<br>**▼ Project Manager業務**<br>・開発スケジュール策定<br>・デイリー進捗・課題共有MTG<br>・週次進捗・課題共有MTG<br>**▼ BlockChainEngineering**<br>・プライベートブロックチェーン関連のリサーチャー<br>・スマートコントラクトを利用した全体設計及び実装 |
+| 2025年06月～現在       | ・ProjectManager                                           | 業務委託 | **合同会社Acceler Digital**<br>**▼ 担当プロダクト**<br>・ブロックチェーンノード運用プロバイダー<br>**▼ 作業内容**<br>・生成AIの開発プロジェクト導入支援、及びブロックチェーンノード運用プロバイダーとしての新規事業立ち上げのプロジェクトマネージメント<br>**▼ 職種**<br>・ProjectManager<br>・BlockChainEngineering                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 2024年01月～2025年06月 | ・ProductManager<br>・AI Engineer                           | 業務委託 | **note 株式会社**<br>**▼ 担当プロダクト**<br>・note既存プロダクト<br>・noteの新規プロダクト（AI関連）<br>・noteの新規プロダクト（IPコンテンツ関連）<br>**▼ 作業内容**<br>note既存プロダクトでは、プロダクトマネージャーとして主にグロース、マーケティングに関する戦略策定および、認証基盤・決済基盤におけるテクニカルPMとしてのサポート業務を担当。新規（AI関連）ではOpenAIに関するプロトタイプ実装と技術検証、新規（IP関連）では立ち上げフェーズの要求定義を担当。<br>**▼ 職種**<br>・ProductManager<br>・AI Engineer<br>**▼ Product Management業務**<br>・グロース、マーケティングに関する戦略策定<br>・認証基盤、決済基盤、AIエンジニアリングにおけるテクニカルサポート                                                                                                                                                                                                                    |
+| 2021年4月〜2022年4月   | ・Engineer                                                 | 業務委託 | **freee株式会社**<br>**▼ 担当プロジェクト**<br>・accounts freee<br>**▼ 作業内容**<br>認証基盤の認証プロトコルの拡張（OAuth2.0 → OIDC）<br>**▼ 職種**<br>・Engineer<br>**▼ Engineer業務**<br>・認証基盤の認証プロトコルを OAuth2.0 → OIDC へ拡張する際の設計及び実装をほぼ一人で実施                                                                                                                                                                                                                                                                                                                                                                                                                               |
